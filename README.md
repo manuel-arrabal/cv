@@ -6,7 +6,7 @@ _Product Manager en CHECK24 ES based in Madrid, Spain_ <br>
 
 ## 💭💻🚀 Experience
 
-**CHECK24 España | Product Manager** @ [CHECK24](https://www.check24.es/) _(Dec 2019 - Present)_ <br>
+**Product Manager** @ [CHECK24](https://www.check24.es/) _(Dec 2019 - Present)_ <br>
 - Continually analyze product performance and market trends in order to identify opportunities.
 - Develop new designs and functionalities taking into account both user satisfaction and the optimization of the web or our applications.
 - Prioritize and coordinate the implementation projects of the new functionalities with all the areas involved.
@@ -14,7 +14,7 @@ _Product Manager en CHECK24 ES based in Madrid, Spain_ <br>
 - Cooperate closely with the IT teams regarding the maintenance of the relevant pages and tools, from the point of view of product management.
 <br><br>
 
-**KLEDING.NL - FASHIOLA.COM | Team lead** @ [Kleding.nl](https://www.kleding.nl/) _(Jun 2017 - Dec 2019)_ <br>
+**Team lead** @ [Kleding.nl](https://www.kleding.nl/) & [Fashiola](https://www.fashiola.com/) _(Jun 2017 - Dec 2019)_ <br>
 - Facilitate daily scrum, sprint planning, sprint demo, and retrospective meetings.
 - Align the project with the different stakeholders (Development, SEO, SEA and Business)
 - Conflict resolution.
@@ -22,7 +22,7 @@ _Product Manager en CHECK24 ES based in Madrid, Spain_ <br>
 - QC / QA
 <br><br>
 
-**RASTREATOR.COM | HEAD mobility, APP and Front-end** @ [Rastreator](https://www.rastreator.com/) _(Oct 201 - Jun 2017)_ <br>
+**HEAD mobility, APP and Front-end** @ [Rastreator.com](https://www.rastreator.com/) _(Oct 201 - Jun 2017)_ <br>
 - Definition of the mobile strategy of the web platform.
 - Development and growth of the PPP.
 - Coordinator of the Front-end team.
@@ -47,6 +47,7 @@ Handcrafted pastries and baked goods 🍰🍪
   <br><br>
 
 ## 🎤 Public Speaking
+- **Cloud Leadership Forum 2014** _(Madrid & Barcelona, Spain, 2014)_
 - **IX Reunión Española sobre Criptología y Seguridad de la Información RECSI 2006** _(Barcelona, Spain, 2006)_
 <br><br>
     
