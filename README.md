@@ -58,8 +58,8 @@ Handcrafted pastries and baked goods 🍰🍪
 
 
 ## 💬 Languages
-
-**English**: Native <br>
+**Spanish**: Native <br>
+**English**: Professional working proficiency  <br>
 **German**: A2.2
 <br><br>
 
