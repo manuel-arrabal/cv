@@ -25,12 +25,12 @@ _Product Manager en CHECK24 ES based in Madrid, Spain_ <br>
 **HEAD mobility, APP and Front-end** @ [Rastreator.com](https://www.rastreator.com/) _(Oct 201 - Jun 2017)_ <br>
 - Definition of the mobile strategy of the web platform.
 - Development and growth of the PPP.
-- Coordinator of the Front-end team.
-Head of Multi Product team (2016)                   
+- Coordinator of the Front-end team.<br>  
+_Head of Multi Product team (2016)_                 
 - Definition and launch of new products.
 - Management of the daily relationship with the different partners.
-- Business analysis.
-Technology manager (2012-2014)   
+- Business analysis.<br>  
+_Technology manager (2012-2014)_   
 - Management of new agreements with partners.
 - Creation of new IT processes.                                         
 - IT support.
@@ -66,5 +66,17 @@ Handcrafted pastries and baked goods 🍰🍪
 
 ## 🎓 Education
 
-**The Hero Camp** Training school for Digital Product Managers <br>
+**The Hero Camp** Digital Product Manager <br>
 [The hero camp](https://theherocamp.com/) - Madrid, Spain _(Jan 2018 - Mar 2018)_ <br>
+
+
+**Udacity** <br>
+[Udacity](https://www.udacity.com/)
+- Intel Edge AI Scholarship Foundation Course, OpenVINO Fundamentals (_2019_)
+- Bertelsmann Data Science Challenge Scholarship _(2018)_
+- Android Development for Beginners _(2017)_
+
+**Universidad de Vigo** Experto en gestión de la seguridad de la información <br>
+[Universidad de Vigo](https://www.uvigo.gal/) _(2012)_
+
+
