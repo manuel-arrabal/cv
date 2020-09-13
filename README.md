@@ -1,6 +1,6 @@
 # Manuel Arrabal
 
-_Product Manager en CHECK24 ES based in Madrid, Spain_ <br>
+_Product Manager @ CHECK24 ES based in Madrid, Spain_ <br>
 
 [Email](mailto:marrabal@gmail.com) / [Website](https://arrabal.vinegla.com/) / [LinkedIn](https://www.linkedin.com/in/manuel-arrabal-vi%C3%B1egla/) / [GitHub](https://github.com/manuel-arrabal) / [Twitter](https://twitter.com/manuel_arrabal)
 
@@ -42,21 +42,45 @@ _Technology manager (2012-2014)_
     
 ## 📌 On The Side
 
-**Cofounder - Dulces & Co** @ [Dulces & Co](https://www.facebook.com/dulcesandco/) _(Dec 2019 - Present)_<br>
+**Co-founder - Dulces & Co** @ [Dulces & Co](https://www.facebook.com/dulcesandco/) _(Dec 2019 - Present)_<br>
 Handcrafted pastries and baked goods 🍰🍪
   <br><br>
+  
+**Commercial director** @ [Marvel informática] _(2010-2012)_
+- Manage employees, keeping them on a path toward long-term goals and boost morale, in addition to fostering talent and encouraging employee retention.
+- Develop leads, focussing on growing the company’s sales and customer base, and lead generation plays a key role in this strategy.
+- Prepare promotional and marketing materials to give to current and potential clients.
+- Use my experience and knowledge to identify potential legal, financial, or sales issues.<br>
+Technician _(2007-2010)_
+- Setting up workstations with computers and necessary peripheral device.
+- Checking computer hardware (HDD, mouses, keyboards etc.) to ensure functionality.
+- Installing and configuring appropriate software and functions according to specifications.
+<br><br>
+
+**Assitant** @ [International Congress of Mathematicians] (https://www.mathunion.org/fileadmin/IMU/ICM2006/offline/icm2006.mathunion.org/index.html) _(2006)_ 
+- Collaborate with the organization, helping the Congress attendees.
+
+**Sport assistan** @ [F.E.D.C.](https://www.fedc.es/) _(2001-2006)_
+- Collaborate with the athlete, taking charge of setting up the adaptation of the stand and helping him/her with the location of the target, the remaining time, etc. 
+   <br><br>
 
 ## 🎤 Public Speaking
 - **Cloud Leadership Forum 2014** _(Madrid & Barcelona, Spain, 2014)_
 - **IX Reunión Española sobre Criptología y Seguridad de la Información RECSI 2006** _(Barcelona, Spain, 2006)_
 <br><br>
-    
+
+## :computer::white_square_button: Programming Languages
+- PYTHON
+- PHP
+- C++
+- COBOL
+- FORTRAN
+- MATLAB
+<br><br>
   
 ## 🏆 Accomplishments
-
 **Employee of the year** @ [Rastreator.com](https://www.rastreator.com/) _(2013)_ <br>
 <br><br>
-
 
 ## 💬 Languages
 **Spanish**: Native <br>
@@ -65,7 +89,6 @@ Handcrafted pastries and baked goods 🍰🍪
 <br><br>
 
 ## 🎓 Education
-
 **The Hero Camp** Digital Product Manager <br>
 [The hero camp](https://theherocamp.com/) - Madrid, Spain _(Jan 2018 - Mar 2018)_ <br>
 
