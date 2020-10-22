@@ -60,7 +60,7 @@ Technician _(2007-2010)_
 **Assitant** @ [International Congress of Mathematicians] (https://www.mathunion.org/fileadmin/IMU/ICM2006/offline/icm2006.mathunion.org/index.html) _(2006)_ 
 - Collaborate with the organization, helping the Congress attendees.
 
-**Sport assistan** @ [F.E.D.C.](https://www.fedc.es/) _(2001-2006)_
+**Sport assistant** @ [F.E.D.C.](https://www.fedc.es/) _(2001-2006)_
 - Collaborate with the athlete, taking charge of setting up the adaptation of the stand and helping him/her with the location of the target, the remaining time, etc. 
    <br><br>
 
