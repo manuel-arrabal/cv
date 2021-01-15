@@ -69,7 +69,7 @@ Technician _(2007-2010)_
 - **IX Reunión Española sobre Criptología y Seguridad de la Información RECSI 2006** _(Barcelona, Spain, 2006)_
 <br><br>
 
-## :computer::white_square_button: Programming Languages
+## 💻 Programming Languages
 - PYTHON
 - PHP
 - C++
