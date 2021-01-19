@@ -10,7 +10,7 @@ _Product Manager @ CHECK24 ES based in Madrid, Spain_ <br>
 - Continually analyze product performance and market trends in order to identify opportunities.
 - Develop new designs and functionalities taking into account both user satisfaction and the optimization of the web or our applications.
 - Prioritize and coordinate the implementation projects of the new functionalities with all the areas involved.
-- Carry out daily user tests (user testings) both manual and automated on the different types of devices to ensure the proper functioning of both general and new features developed.
+- Carry out daily user tests (user testing's) both manual and automated on the different types of devices to ensure the proper functioning of both general and new features developed.
 - Cooperate closely with the IT teams regarding the maintenance of the relevant pages and tools, from the point of view of product management.
 <br><br>
 
@@ -48,7 +48,7 @@ Handcrafted pastries and baked goods 🍰🍪
   
 **Commercial director** @ [Marvel informática] _(2010-2012)_
 - Manage employees, keeping them on a path toward long-term goals and boost morale, in addition to fostering talent and encouraging employee retention.
-- Develop leads, focussing on growing the company’s sales and customer base, and lead generation plays a key role in this strategy.
+- Develop leads, focusing on growing the company’s sales and customer base, and lead generation plays a key role in this strategy.
 - Prepare promotional and marketing materials to give to current and potential clients.
 - Use my experience and knowledge to identify potential legal, financial, or sales issues.<br>
 Technician _(2007-2010)_
