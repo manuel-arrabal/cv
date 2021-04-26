@@ -57,7 +57,7 @@ Technician _(2007-2010)_
 - Installing and configuring appropriate software and functions according to specifications.
 <br><br>
 
-**Assitant** @ [International Congress of Mathematicians] (https://www.mathunion.org/fileadmin/IMU/ICM2006/offline/icm2006.mathunion.org/index.html) _(2006)_ 
+**Assitant** @ [International Congress of Mathematicians](https://www.mathunion.org/fileadmin/IMU/ICM2006/offline/icm2006.mathunion.org/index.html) _(2006)_ 
 - Collaborate with the organization, helping the Congress attendees.
 
 **Sport assistant** @ [F.E.D.C.](https://www.fedc.es/) _(2001-2006)_
