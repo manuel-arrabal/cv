@@ -103,4 +103,4 @@ Technician _(2007-2010)_
 [Universidad de Vigo](https://www.uvigo.gal/) _(2012)_
 
 
-🖨 <a href="#" onclick="window.print();return false;" title="Click to print this page"></a>
+🖨 <a href="#" onclick="window.print();return false;" title="Click to print this page">Click to print this page</a>
