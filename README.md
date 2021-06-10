@@ -22,7 +22,7 @@ _Product Manager @ CHECK24 ES based in Madrid, Spain_ <br>
 - QC / QA
 <br><br>
 
-**HEAD mobility, APP and Front-end** @ [Rastreator.com](https://www.rastreator.com/) _(Oct 2012 - Jun 2017)_ <br>
+**HEAD of mobility, APP and Front-end** @ [Rastreator.com](https://www.rastreator.com/) _(Oct 2012 - Jun 2017)_ <br>
 - Definition of the mobile strategy of the web platform.
 - Development and growth of the PPP.
 - Coordinator of the Front-end team.<br>  
