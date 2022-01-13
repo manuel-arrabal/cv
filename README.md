@@ -6,7 +6,7 @@ _Product Manager @ CHECK24 ES based in Madrid, Spain_ <br>
 
 ## 💭💻🚀 Experience
 
-**Product Manager** @ [CHECK24](https://www.check24.es/) _(Dec 2019 - Present)_ <br>
+** Lead Product Manager** @ [CHECK24](https://www.check24.es/) _(Dec 2019 - Present)_ <br>
 - Continually analyze product performance and market trends in order to identify opportunities.
 - Develop new designs and functionalities taking into account both user satisfaction and the optimization of the web or our applications.
 - Prioritize and coordinate the implementation projects of the new functionalities with all the areas involved.
