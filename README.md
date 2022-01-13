@@ -89,9 +89,14 @@ Technician _(2007-2010)_
 <br><br>
 
 ## 🎓 Education
+**ThePowerMBA** ThePowerMBA and Harvad Businness Publishing Education <br>
+[ThePowerMBA](https://www.thepowermba.com/es/) _(Jan 2022)_ <br>
+
+**Europena Scrum** Expert Scrum Foundations <br>
+[European Scrum](https://www.europeanscrum.org/index.html) - Madrid, Spain _(Feb 2020)_ <br>
+
 **The Hero Camp** Digital Product Manager <br>
 [The hero camp](https://theherocamp.com/) - Madrid, Spain _(Jan 2018 - Mar 2018)_ <br>
-
 
 **Udacity** <br>
 [Udacity](https://www.udacity.com/)
