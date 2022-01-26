@@ -1,6 +1,6 @@
 # Manuel Arrabal
 
-_Product Manager @ CHECK24 ES based in Madrid, Spain_ <br>
+_Lead Product Manager @ CHECK24 ES based in Madrid, Spain_ <br>
 
 [Email](mailto:marrabal@gmail.com) / [Website](https://arrabal.vinegla.com/) / [LinkedIn](https://www.linkedin.com/in/manuel-arrabal-vi%C3%B1egla/) / [GitHub](https://github.com/manuel-arrabal) / [Twitter](https://twitter.com/manuel_arrabal)
 
