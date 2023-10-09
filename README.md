@@ -6,7 +6,7 @@ _Lead Product Manager @ CHECK24 ES based in Madrid, Spain_ <br>
 
 ## 💭💻🚀 Experience
 
-**Lead Product Manager** @ [CHECK24](https://www.check24.es/) _(Dec 2019 - Present)_ <br>
+**Head of Product** @ [CHECK24](https://www.check24.es/) _(Dec 2019 - Present)_ <br>
 - Continually analyze product performance and market trends in order to identify opportunities.
 - Develop new designs and functionalities taking into account both user satisfaction and the optimization of the web or our applications.
 - Prioritize and coordinate the implementation projects of the new functionalities with all the areas involved.
@@ -89,6 +89,9 @@ Technician _(2007-2010)_
 <br><br>
 
 ## 🎓 Education
+**Lead Product Training** Thiga <br>
+[Thiga](https://www.thiga.co/) _(Apr 2023)_ <br>
+
 **ThePowerMBA** ThePowerMBA and Harvad Businness Publishing Education <br>
 [ThePowerMBA](https://www.thepowermba.com/es/) _(Jan 2022)_ <br>
 
@@ -104,8 +107,14 @@ Technician _(2007-2010)_
 - Bertelsmann Data Science Challenge Scholarship _(2018)_
 - Android Development for Beginners _(2017)_
 
+**Securízame** <br>
+[Securízame](https://www.securizame.com/)
+- Análisis Forense 
+- Hacking Ético
+- Hardening de Sistemas Windows y Linux e Infraestructuras <br>
+
 **Universidad de Vigo** Experto en gestión de la seguridad de la información <br>
-[Universidad de Vigo](https://www.uvigo.gal/) _(2012)_
+[Universidad de Vigo](https://www.uvigo.gal/) _(2012)_ <br>
 
 
 🖨 <a href="#" onclick="window.print();return false;" title="Click to print this page">Click to print this page</a>
