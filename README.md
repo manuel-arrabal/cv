@@ -85,7 +85,7 @@ Technician _(2007-2010)_
 ## 💬 Languages
 **Spanish**: Native <br>
 **English**: Professional working proficiency  <br>
-**German**: A2.2
+**German**: A2.2 [Goethe Institut](https://www.goethe.de/ins/es/es/sta/mad.html)
 <br><br>
 
 ## 🎓 Education
