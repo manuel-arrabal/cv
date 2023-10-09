@@ -73,7 +73,6 @@ Technician _(2007-2010)_
 - PYTHON
 - PHP
 - C++
-- COBOL
 - FORTRAN
 - MATLAB
 <br><br>
@@ -89,10 +88,10 @@ Technician _(2007-2010)_
 <br><br>
 
 ## 🎓 Education
-**Lead Product Training** Thiga <br>
+**Thiga** Lead Product Training <br>
 [Thiga](https://www.thiga.co/) _(Apr 2023)_ <br>
 
-**ThePowerMBA** ThePowerMBA and Harvad Businness Publishing Education <br>
+**ThePowerMBA and Harvad Businness Publishing Education** ThePowerMBA <br>
 [ThePowerMBA](https://www.thepowermba.com/es/) _(Jan 2022)_ <br>
 
 **Europena Scrum** Expert Scrum Foundations <br>
