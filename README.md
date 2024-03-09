@@ -91,11 +91,10 @@ Technician _(2007-2010)_
 **The Hero Camp** Prodcut Analytics <br>
 [The hero camp](https://theherocamp.com/) - Madrid, Spain _(2024)_ <br>
 
-**Thiga** Product Designer <br>
-[Thiga](https://www.thiga.co/) _(2023)_ <br>
-
-**Thiga** Lead Product Training <br>
-[Thiga](https://www.thiga.co/) _(2023)_ <br>
+**Thiga**<br>
+[Thiga](https://www.thiga.co/)
+- Product Designer _(2023)_
+- Lead Product Training _(2023)_
 
 **ThePowerMBA and Harvad Businness Publishing Education** ThePowerMBA <br>
 [ThePowerMBA](https://www.thepowermba.com/es/) _(2022)_ <br>
