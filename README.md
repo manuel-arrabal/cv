@@ -96,7 +96,7 @@ Technician _(2007-2010)_
 - Product Designer _(2023)_
 - Lead Product Training _(2023)_
 
-**ThePowerMBA and Harvad Businness Publishing Education** ThePowerMBA <br>
+**ThePowerMBA and Harvad Businness Publishing Education**<br>
 [ThePowerMBA](https://www.thepowermba.com/es/) _(2022)_ <br>
 
 **European Scrum** Expert Scrum Foundations <br>
