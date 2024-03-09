@@ -88,17 +88,23 @@ Technician _(2007-2010)_
 <br><br>
 
 ## 🎓 Education
+**The Hero Camp** Prodcut Analytics <br>
+[The hero camp](https://theherocamp.com/) - Madrid, Spain _(2024)_ <br>
+
+**Thiga** Product Designer <br>
+[Thiga](https://www.thiga.co/) _(2023)_ <br>
+
 **Thiga** Lead Product Training <br>
-[Thiga](https://www.thiga.co/) _(Apr 2023)_ <br>
+[Thiga](https://www.thiga.co/) _(2023)_ <br>
 
 **ThePowerMBA and Harvad Businness Publishing Education** ThePowerMBA <br>
-[ThePowerMBA](https://www.thepowermba.com/es/) _(Jan 2022)_ <br>
+[ThePowerMBA](https://www.thepowermba.com/es/) _(2022)_ <br>
 
 **Europena Scrum** Expert Scrum Foundations <br>
-[European Scrum](https://www.europeanscrum.org/index.html) - Madrid, Spain _(Feb 2020)_ <br>
+[European Scrum](https://www.europeanscrum.org/index.html) - Madrid, Spain _(2020)_ <br>
 
 **The Hero Camp** Digital Product Manager <br>
-[The hero camp](https://theherocamp.com/) - Madrid, Spain _(Jan 2018 - Mar 2018)_ <br>
+[The hero camp](https://theherocamp.com/) - Madrid, Spain _(2018)_ <br>
 
 **Udacity** <br>
 [Udacity](https://www.udacity.com/)
