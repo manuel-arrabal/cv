@@ -100,7 +100,7 @@ Technician _(2007-2010)_
 **ThePowerMBA and Harvad Businness Publishing Education** ThePowerMBA <br>
 [ThePowerMBA](https://www.thepowermba.com/es/) _(2022)_ <br>
 
-**Europena Scrum** Expert Scrum Foundations <br>
+**European Scrum** Expert Scrum Foundations <br>
 [European Scrum](https://www.europeanscrum.org/index.html) - Madrid, Spain _(2020)_ <br>
 
 **The Hero Camp** Digital Product Manager <br>
